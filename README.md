@@ -1,2 +1,2 @@
 # My.Study-SQL
-MY STUDY SQL
+Patika.dev SQL kursu kapsamında yapılan ödevleri derledim.
