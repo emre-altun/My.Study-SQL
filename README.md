@@ -1,3 +1,2 @@
 # My.Study-SQL
-MY STUDY SQL
-SQL ÇALIŞMAM
+SQL ÇALIŞMAM.
